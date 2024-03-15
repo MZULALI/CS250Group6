@@ -13,4 +13,4 @@ The Ticketing Website is a web-based platform that aims to provide a seamless an
 - **Admin Dashboard**: Administrators have access to a centralized dashboard for managing events, user accounts, payments, and other system settings.
 - **Reporting and Analytics**: Comprehensive reporting tools provide insights into sales performance, attendance trends, and other key metrics.
 UDATE0.02:
-We added a test plan for our software system
+- **We added a test plan for our software system
